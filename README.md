@@ -1,7 +1,7 @@
 
 # Git Commit Guidelines
 
-> Este guia foi montado baseado em [uma convenção](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines) usado em conjunto com [commitizen](https://github.com/commitizen/cz-cli). 
+> Este guia foi montado baseado em [uma convenção](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines) usada em conjunto com [commitizen](https://github.com/commitizen/cz-cli). 
 Criei com o objetivo pessoal para melhorar minhas mensagens de commits e coroborar para o(s) projeto(s) para qual possa vir a participar, facilitando o rastreamento de mudanças e elucidando qualquer dúvida. 
 
 
